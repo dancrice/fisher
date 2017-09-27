@@ -31,3 +31,5 @@
 
 ### Removed
 - Remove index from password reset `token` column ([#4180](https://github.com/laravel/laravel/pull/4180))
+
+	Test
